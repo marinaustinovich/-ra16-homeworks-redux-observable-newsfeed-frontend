@@ -1,0 +1,23 @@
+.card-image {
+    display: flex;
+    flex-direction: column;
+}
+
+.read-more {
+    color: lightslategray
+}
+
+.btn-primary {
+    color: lightslategray;
+    border: none;
+    background-color: white;
+}
+
+.link-too {
+    color: lightslategray;
+    margin-left: 5px;
+}
+
+.card-image-title {
+    font-size: 1em;
+}

@@ -1,0 +1,23 @@
+.card-title {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.card-text {
+    text-align: left;
+}
+
+.card-interactions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-interacrions-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+}
+
+.interaction span {
+    margin-right: 5px;
+}

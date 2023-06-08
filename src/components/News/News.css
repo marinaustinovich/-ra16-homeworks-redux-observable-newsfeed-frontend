@@ -1,0 +1,9 @@
+.card-group {
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-show-next {
+    width: 220px;
+    background-color: lightgray;
+}
